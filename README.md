@@ -17,6 +17,9 @@
 
 + 师姐论文实验  （一个月努力以后，已停止）
 
+### 技术文档
+[VIM](https://guixiaole.github.io/CSnote/vim/html/vim)
+
 ## 阅读写作
 
 ### 进行中
