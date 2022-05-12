@@ -19,6 +19,7 @@
 
 ### 技术文档
 [VIM技术](https://guixiaole.github.io/CSnote/vim/html/vim)
+[经济学原理第一章](https://guixiaole.github.io/CSnote/Microeconomics/html/introduction)
 
 ## 阅读写作
 
@@ -166,4 +167,5 @@
 |5/8|修改论文|||2点半睡8点半起||
 |5/9|修改论文||打球2小时以上|2点半睡8点半起||
 |5/10|修改完成论文，提交盲审，终于解放|三岛由纪夫《春雪》||1点半睡8点半起||
+|5/11|上午听听力，听了三小时，磕磕绊绊的，下午学spring，重装环境，晚上回宿舍经济学原理|三岛由纪夫《春雪》||1点半睡8点半起||
 <!-- i5ting_toc -f yourfile.md  -->
