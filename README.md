@@ -23,6 +23,10 @@
 
 [经济学原理第一章](https://guixiaole.github.io/CSnote/Microeconomics/html/introduction)
 
+### Leetcode
+接下来的日子每天都会刷leetcode，遇到合适的题会写题解。
+
+[23](https://guixiaole.github.io/CSnote/leetcode/html/23)
 ## 阅读写作
 
 ### 进行中
@@ -193,4 +197,5 @@
 |5/25|搞材料|《绣春刀》《奇迹笨小孩》||1点睡8点半起|| 
 |5/26|上午搞材料，下午谈项目，晚上英语+经济学原理|||1点睡8点半起|| 
 |5/27|英语听力+阅读，经济学原理，leetcode一道题||十分钟hiit，一首本草纲目|1点睡8点半起|| 
+|5/28|英语听力，经济学原理，leetcode一道题和题解||早起在操场跑了2km|1点睡8点半起|| 
 <!-- i5ting_toc -f README.md  -->
