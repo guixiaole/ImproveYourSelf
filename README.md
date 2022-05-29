@@ -19,14 +19,11 @@
 + 论文已经写完，上交盲审，查重1.8%
 
 ### 技术文档
-[VIM技术](https://guixiaole.github.io/CSnote/vim/html/vim)
+[VIM技术](https://guixiaole.github.io/CSnote/vim/html/)
 
-[经济学原理第一章](https://guixiaole.github.io/CSnote/Microeconomics/html/introduction)
+[经济学原理第一章](https://guixiaole.github.io/CSnote/Microeconomics/html/)
 
-### Leetcode
-接下来的日子每天都会刷leetcode，遇到合适的题会写题解。
-
-[23](https://guixiaole.github.io/CSnote/leetcode/html/23)
+[leetcode](https://guixiaole.github.io/CSnote/leetcode/html/)
 ## 阅读写作
 
 ### 进行中
