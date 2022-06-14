@@ -25,6 +25,8 @@
 [经济学原理第一章](https://guixiaole.github.io/CSnote/Microeconomics/html/)
 
 [leetcode](https://guixiaole.github.io/CSnote/leetcode/html/)
+
+[Effective Java](https://guixiaole.github.io/CSnote/EffectiveJava/html/)
 ## 阅读写作
 
 ### 进行中
